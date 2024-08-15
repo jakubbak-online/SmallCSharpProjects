@@ -8,6 +8,7 @@
     - .NET is framework, that is used to build applications on Windows
     -   it can be used with C#, but also other programming languages such as F# and VisualBasic.NET
 
+-  .NET can be used to build variety of things: from desktop apps with .NET Core, cross-platform apps with Xamarin, web apps with Blazor to games in Unity.
 
 - .NET consists of CLR (common runtime language), and Class Library
 
@@ -62,6 +63,6 @@ and Methods - which are class’ functions
 <details>
 <summary>Sources</summary>
 
-- https://www.youtube.com/watch?v=ravLFzIguCM
 - https://www.youtube.com/watch?v=YrtFtdTTfv0
+- https://www.youtube.com/watch?v=ravLFzIguCM
 </details>
