@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\1. Intro\\1. Intro.csproj": {}
+    "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\1. Choinka\\1. Intro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\1. Intro\\1. Intro.csproj": {
+    "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\1. Choinka\\1. Intro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\1. Intro\\1. Intro.csproj",
+        "projectUniqueName": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\1. Choinka\\1. Intro.csproj",
         "projectName": "1. Intro",
-        "projectPath": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\1. Intro\\1. Intro.csproj",
+        "projectPath": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\1. Choinka\\1. Intro.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\1. Intro\\obj\\",
+        "outputPath": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\1. Choinka\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

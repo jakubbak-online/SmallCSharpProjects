@@ -1,4 +1,6 @@
-﻿int counter = 11;
+﻿Console.WriteLine("Input size of tree");
+
+int counter = Convert.ToInt32(Console.ReadLine()); // method returns a string, so it must be converted into int32
 int workingVariable = 0;
 
 for(int i=1; i<counter*2; i++)

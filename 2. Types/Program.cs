@@ -22,4 +22,13 @@ bool booleanValue = true;
 Type booleanValueType = booleanValue.GetType();
 Console.WriteLine($"Data: {booleanValue,rowWidth}  ||  is of type {booleanValueType,rowWidth}  ||  and allocates size in memory of {sizeof(bool),rowWidth}");
 
+char charValue = 'w';
+Type charValueType = charValue.GetType();
+Console.WriteLine($"Data: {charValue,rowWidth}  ||  is of type {charValueType,rowWidth}  ||  and allocates size in memory of {sizeof(char),rowWidth}");
+
+string stringValue = "Example String";
+Type stringValueType = stringValue.GetType();
+Console.WriteLine($"Data: {stringValue,rowWidth}  ||  is of type {stringValueType,rowWidth}  ||  and allocates size in memory depending of size of a string");
+
+
 Console.ReadLine();

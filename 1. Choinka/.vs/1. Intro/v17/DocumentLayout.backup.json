@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jakub bak\\source\\small-C#-projects\\1. Intro\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\1. Choinka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04C3848A-7B3C-4582-A3BE-BFA6DD6C5AC1}|1. Intro.csproj|c:\\users\\jakub bak\\source\\small-c#-projects\\1. intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04C3848A-7B3C-4582-A3BE-BFA6DD6C5AC1}|1. Intro.csproj|c:\\users\\user\\small-c#-projects\\smallcsharpprojects\\1. choinka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04C3848A-7B3C-4582-A3BE-BFA6DD6C5AC1}|1. Intro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,18 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jakub bak\\source\\small-C#-projects\\1. Intro\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\1. Choinka\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\jakub bak\\source\\small-C#-projects\\1. Intro\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\1. Choinka\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T17:44:48.013Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
