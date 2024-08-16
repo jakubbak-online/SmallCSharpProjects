@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jakub bak\\source\\small-C#-projects\\1. Intro\\1. Intro.csproj": {}
+    "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\1. Intro\\1. Intro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jakub bak\\source\\small-C#-projects\\1. Intro\\1. Intro.csproj": {
+    "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\1. Intro\\1. Intro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakub bak\\source\\small-C#-projects\\1. Intro\\1. Intro.csproj",
+        "projectUniqueName": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\1. Intro\\1. Intro.csproj",
         "projectName": "1. Intro",
-        "projectPath": "C:\\Users\\jakub bak\\source\\small-C#-projects\\1. Intro\\1. Intro.csproj",
-        "packagesPath": "C:\\Users\\jakub bak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakub bak\\source\\small-C#-projects\\1. Intro\\obj\\",
+        "projectPath": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\1. Intro\\1. Intro.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\1. Intro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jakub bak\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

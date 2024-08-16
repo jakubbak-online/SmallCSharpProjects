@@ -1,0 +1,15 @@
+C:\Users\user\small-C#-projects\SmallCSharpProjects\1. Intro\bin\Debug\net8.0\1. Intro.exe
+C:\Users\user\small-C#-projects\SmallCSharpProjects\1. Intro\bin\Debug\net8.0\1. Intro.deps.json
+C:\Users\user\small-C#-projects\SmallCSharpProjects\1. Intro\bin\Debug\net8.0\1. Intro.runtimeconfig.json
+C:\Users\user\small-C#-projects\SmallCSharpProjects\1. Intro\bin\Debug\net8.0\1. Intro.dll
+C:\Users\user\small-C#-projects\SmallCSharpProjects\1. Intro\bin\Debug\net8.0\1. Intro.pdb
+C:\Users\user\small-C#-projects\SmallCSharpProjects\1. Intro\obj\Debug\net8.0\1. Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\small-C#-projects\SmallCSharpProjects\1. Intro\obj\Debug\net8.0\1. Intro.AssemblyInfoInputs.cache
+C:\Users\user\small-C#-projects\SmallCSharpProjects\1. Intro\obj\Debug\net8.0\1. Intro.AssemblyInfo.cs
+C:\Users\user\small-C#-projects\SmallCSharpProjects\1. Intro\obj\Debug\net8.0\1. Intro.csproj.CoreCompileInputs.cache
+C:\Users\user\small-C#-projects\SmallCSharpProjects\1. Intro\obj\Debug\net8.0\1. Intro.sourcelink.json
+C:\Users\user\small-C#-projects\SmallCSharpProjects\1. Intro\obj\Debug\net8.0\1. Intro.dll
+C:\Users\user\small-C#-projects\SmallCSharpProjects\1. Intro\obj\Debug\net8.0\refint\1. Intro.dll
+C:\Users\user\small-C#-projects\SmallCSharpProjects\1. Intro\obj\Debug\net8.0\1. Intro.pdb
+C:\Users\user\small-C#-projects\SmallCSharpProjects\1. Intro\obj\Debug\net8.0\1. Intro.genruntimeconfig.cache
+C:\Users\user\small-C#-projects\SmallCSharpProjects\1. Intro\obj\Debug\net8.0\ref\1. Intro.dll
