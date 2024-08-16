@@ -1,0 +1,10 @@
+C:\Users\user\small-C#-projects\SmallCSharpProjects\3. GUI Calculator\bin\Debug\_3.GUI_Calculator.exe.config
+C:\Users\user\small-C#-projects\SmallCSharpProjects\3. GUI Calculator\bin\Debug\_3.GUI_Calculator.exe
+C:\Users\user\small-C#-projects\SmallCSharpProjects\3. GUI Calculator\bin\Debug\_3.GUI_Calculator.pdb
+C:\Users\user\small-C#-projects\SmallCSharpProjects\3. GUI Calculator\obj\Debug\3. GUI Calculator.csproj.AssemblyReference.cache
+C:\Users\user\small-C#-projects\SmallCSharpProjects\3. GUI Calculator\obj\Debug\_3.GUI_Calculator.Form1.resources
+C:\Users\user\small-C#-projects\SmallCSharpProjects\3. GUI Calculator\obj\Debug\_3.GUI_Calculator.Properties.Resources.resources
+C:\Users\user\small-C#-projects\SmallCSharpProjects\3. GUI Calculator\obj\Debug\3. GUI Calculator.csproj.GenerateResource.cache
+C:\Users\user\small-C#-projects\SmallCSharpProjects\3. GUI Calculator\obj\Debug\3. GUI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\small-C#-projects\SmallCSharpProjects\3. GUI Calculator\obj\Debug\_3.GUI_Calculator.exe
+C:\Users\user\small-C#-projects\SmallCSharpProjects\3. GUI Calculator\obj\Debug\_3.GUI_Calculator.pdb

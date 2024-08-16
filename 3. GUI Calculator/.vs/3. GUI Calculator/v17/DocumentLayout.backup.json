@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\3. GUI Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8300E0EB-2F15-40C2-A3A1-1C43B32D009B}|3. GUI Calculator.csproj|c:\\users\\user\\small-c#-projects\\smallcsharpprojects\\3. gui calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8300E0EB-2F15-40C2-A3A1-1C43B32D009B}|3. GUI Calculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8300E0EB-2F15-40C2-A3A1-1C43B32D009B}|3. GUI Calculator.csproj|C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\3. GUI Calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8300E0EB-2F15-40C2-A3A1-1C43B32D009B}|3. GUI Calculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8300E0EB-2F15-40C2-A3A1-1C43B32D009B}|3. GUI Calculator.csproj|C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\3. GUI Calculator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8300E0EB-2F15-40C2-A3A1-1C43B32D009B}|3. GUI Calculator.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8300E0EB-2F15-40C2-A3A1-1C43B32D009B}|3. GUI Calculator.csproj|C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\3. GUI Calculator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8300E0EB-2F15-40C2-A3A1-1C43B32D009B}|3. GUI Calculator.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\3. GUI Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\3. GUI Calculator\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:59:08.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\3. GUI Calculator\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\3. GUI Calculator\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-16T09:12:04.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\3. GUI Calculator\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\3. GUI Calculator\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:11:44.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\3. GUI Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\user\\small-C#-projects\\SmallCSharpProjects\\3. GUI Calculator\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:44:13.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
