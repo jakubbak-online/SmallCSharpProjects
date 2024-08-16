@@ -1,0 +1,15 @@
+C:\Users\user\small-C#-projects\SmallCSharpProjects\2. Types\bin\Debug\net8.0\2. Types.exe
+C:\Users\user\small-C#-projects\SmallCSharpProjects\2. Types\bin\Debug\net8.0\2. Types.deps.json
+C:\Users\user\small-C#-projects\SmallCSharpProjects\2. Types\bin\Debug\net8.0\2. Types.runtimeconfig.json
+C:\Users\user\small-C#-projects\SmallCSharpProjects\2. Types\bin\Debug\net8.0\2. Types.dll
+C:\Users\user\small-C#-projects\SmallCSharpProjects\2. Types\bin\Debug\net8.0\2. Types.pdb
+C:\Users\user\small-C#-projects\SmallCSharpProjects\2. Types\obj\Debug\net8.0\2. Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\small-C#-projects\SmallCSharpProjects\2. Types\obj\Debug\net8.0\2. Types.AssemblyInfoInputs.cache
+C:\Users\user\small-C#-projects\SmallCSharpProjects\2. Types\obj\Debug\net8.0\2. Types.AssemblyInfo.cs
+C:\Users\user\small-C#-projects\SmallCSharpProjects\2. Types\obj\Debug\net8.0\2. Types.csproj.CoreCompileInputs.cache
+C:\Users\user\small-C#-projects\SmallCSharpProjects\2. Types\obj\Debug\net8.0\2. Types.sourcelink.json
+C:\Users\user\small-C#-projects\SmallCSharpProjects\2. Types\obj\Debug\net8.0\2. Types.dll
+C:\Users\user\small-C#-projects\SmallCSharpProjects\2. Types\obj\Debug\net8.0\refint\2. Types.dll
+C:\Users\user\small-C#-projects\SmallCSharpProjects\2. Types\obj\Debug\net8.0\2. Types.pdb
+C:\Users\user\small-C#-projects\SmallCSharpProjects\2. Types\obj\Debug\net8.0\2. Types.genruntimeconfig.cache
+C:\Users\user\small-C#-projects\SmallCSharpProjects\2. Types\obj\Debug\net8.0\ref\2. Types.dll

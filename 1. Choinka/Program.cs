@@ -14,3 +14,4 @@ for(int i=1; i<counter*2; i++)
     }
     Console.WriteLine("");
 }
+Console.ReadLine();
