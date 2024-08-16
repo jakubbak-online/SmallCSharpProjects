@@ -1,5 +1,12 @@
-# small .NET projects
+# my small .NET projects
+## Contents
+So far this repository is comprised of three small programs:
+-   simple tree display
+-   some experimenting with types
+-   and GUI Calculator made in WinForms
 
+...and some of my notes
+---
 <details>
 <summary>My notes</summary>
 
@@ -57,8 +64,6 @@ and Methods - which are class’ functions
 
 - While working on C# code you can import class, or whole namespace with keywork using. This works similar to python.
 </details>
-
-<br>
 
 <details>
 <summary>Sources</summary>
