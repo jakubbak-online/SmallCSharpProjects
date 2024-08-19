@@ -7,7 +7,7 @@ So far this repository is comprised of three small programs:
 
 ...and some of my notes
 ---
-<details>
+<details open>
 <summary>My notes</summary>
 
 - What is .NET and C#?
